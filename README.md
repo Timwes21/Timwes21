@@ -2,6 +2,7 @@
 - 👀 I’m currently Pursuing a Masters in Software Engineering 
 - 🌱 I’m currently learning JavaFX!
 - I started coding in Febuary 2024
+- Languages: Python, Java
 
 - 📫 You can reach me at timothy.wesley99@yahoo.com
 - ⚡ Fun fact: My Bachelors degree is in Criminal Justice 
