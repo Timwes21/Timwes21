@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothy Wesley, a current Software Engineering student!
 - 👀 I’m currently Pursuing a Masters in Software Engineering 
-- 🌱 I’m currently learning how to build an AI chatbot!
+- 🌱 I’m currently learning Backend and Networking!
 - I started coding in Febuary 2024
 - Languages: Python, Java
 
