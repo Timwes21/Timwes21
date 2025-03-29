@@ -1,11 +1,18 @@
-- 👋 Hi, I’m Timothy Wesley, a current Software Engineering student!
-- 👀 I’m currently Pursuing a Masters in Software Engineering 
-- 🌱 I’m currently learning Backend and Networking!
-- I started coding in Febuary 2024
-- Languages: Python, Java
+# 👋 Hi, I'm [Timothy Wesley]!
 
-- 📫 You can reach me at timothy.wesley99@yahoo.com
-- ⚡ Fun fact: My Bachelors degree is in Criminal Justice 
+### 🚀 About Me
+- 💻 I specialize in [Backend Engineering].
+- 🔭 I’m currently working on [An AI Translater App].
+- 🌱 I’m learning [React and React Native].
+
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!---
 Timwes21/Timwes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
