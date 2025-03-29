@@ -1,9 +1,9 @@
-# 👋 Hi, I'm [Timothy Wesley]!
+# 👋 Hi, I'm Timothy Wesley!
 
 ### 🚀 About Me
-- 💻 I specialize in [Backend Engineering].
-- 🔭 I’m currently working on [An AI Translater App].
-- 🌱 I’m learning [React and React Native].
+- 💻 I specialize in Backend Engineering.
+- 🔭 I’m currently working on An AI Translater App.
+- 🌱 I’m learning React and React Native.
 
 
 ### 🛠️ Tech Stack
