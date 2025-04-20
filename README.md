@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 I specialize in Backend Engineering.
-- 🔭 I’m currently working on An AI Translater App.
+- 🔭 I’m currently working on An AI Comic Book Collection App(spideypedia).
 - 🌱 I’m learning React and React Native.
 
 
