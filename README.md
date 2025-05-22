@@ -14,7 +14,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-blue?logo=langchain)
+![Langchain](https://img.shields.io/badge/Langchain-blue?style=for-the-badge?logo=langchain)
 
 <!---
 Timwes21/Timwes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
