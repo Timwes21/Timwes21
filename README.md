@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Wesley!
 
 ### 🚀 About Me
-- 💻 I specialize in Backend/AI Engineering.
+- 💻 I specialize in Fullstack/AI Engineering.
 - 🔭 I’m currently working on An AI agent that handles missed calls.
 - 🌱 I’m currently learning docker in more depth.
 
