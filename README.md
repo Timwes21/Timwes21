@@ -16,6 +16,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-blue?style=for-the-badge&logo=langchain)
 ![Langgraph](https://img.shields.io/badge/Langgraph-red?style=for-the-badge&logo=langgraph)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Redis](https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis)
+
 
 <!---
 Timwes21/Timwes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
