@@ -2,8 +2,7 @@
 
 ### 🚀 About Me
 - 💻 I specialize in Fullstack/AI Engineering.
-- 🔭 I’m currently working on An AI agent that handles missed calls, you can track progress here: [Work_Phone](https://github.com/Timwes21/Work_Phone).
-- 🌱 I’m currently learning Langchain/Langgraph in more depth.
+- 🔭 I’m currently working on An AI platform that lets you build up and ask a knowlege base from chosen youtube videos.
 
 
 ### 🛠️ Tech Stack
