@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 I specialize in Fullstack/AI Engineering.
-- 🔭 I’m currently working on An AI platform that lets you build up and ask a knowlege base from chosen youtube videos.
+- 🔭 I’m currently upgrading ![Work Phone](https://github.com/Timwes21/Timwes21/WorkPhone) from MVP to production ready application.
 
 
 ### 🛠️ Tech Stack
