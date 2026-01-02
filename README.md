@@ -2,8 +2,7 @@
 
 ### 🚀 About Me
 - 💻 I specialize in Fullstack/AI Engineering.
-- 🔭 I’m currently upgrading [Work Phone](https://github.com/Timwes21/Work_Phone)from MVP to production ready application.
-- Currently Learning Terraform.
+- 🔭 Check out my most recent app [Work Phone](https://github.com/Timwes21/WorkPhoneApp).
 
 
 ### 🛠️ Tech Stack
