@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Wesley!
 
 ### 🚀 About Me
-- 💻 I specialize in Fullstack/AI Engineering.
+- 💻 Aspiring Cybersecurity Analyst | Building security tools and exploring threat detection, AppSec, and secure development
 - 🔭 Check out my most recent app [Work Phone](https://github.com/Timwes21/WorkPhoneApp).
 
 
