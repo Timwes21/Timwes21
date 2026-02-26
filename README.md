@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Wesley!
 
 ### 🚀 About Me
-- 💻 Aspiring Cybersecurity Analyst | Building security tools and exploring threat detection, AppSec, and secure development
+- 💻 Cybersecurity Analyst candidate & programming enthusiast | M.S. Software Engineering 2026 | Building security tools and passion projects
 - 🔭 Check out my most recent app [Work Phone](https://github.com/Timwes21/WorkPhoneApp).
 
 
